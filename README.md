@@ -1,8 +1,18 @@
 # Numadic_Data_Test
-Sorry i read the Test mail very late. 
-I didn't have a hosted server for Mongo DB , however i did put all the data into a csv file. 
-If time permits i will complete it and push it in my git hub repository
 
-Framework for scrapping - Beautifulsoup
+contains 3 files:-
+1) Python file = scraping_news.py
+2) CSV file = NEWZSCRAPPED.csv
+3) A folder named Database_pics containing screenshots of created database
+
+
+Framework used for scrapping - Beautifulsoup
 Website to be Scrapped - https://www.politifact.com/factchecks/list/?page=1
 Scrapped data saved in file - NEWZSCRAPPED.csv
+
+
+
+Localhost Mongodb client = mongodb://localhost:27017
+Database name = NewsArticles
+Table name = Scrapenews
+
